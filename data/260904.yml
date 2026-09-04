@@ -7,7 +7,7 @@ about:
   head: 5764861
   archived: false
   latestVersion: v0.4.0
-  collectedAt: 2026-09-04T20:02:13Z
+  collectedAt: 2026-09-04T20:39:39Z
 timeline:
   created: 2022-04-03
   lastCommit: 2026-05-21
@@ -80,5 +80,28 @@ total:
   openIssue: 0
   commit: 142
 ---
+path: /home/runner/.x-repo/github.com/sile/erldash
+collectedAt: 2026-09-04T20:39:40Z
+loc:
+  Rust:
+    code: 1948
+    comments: 2
+    blanks: 232
+    files: 7
+  Toml:
+    code: 23
+    comments: 1
+    blanks: 2
+    files: 1
+  Markdown:
+    code: 0
+    comments: 44
+    blanks: 19
+    files: 1
+total:
+  code: 1971
+  comments: 48
+  blanks: 253
+  files: 9
 ---
 
