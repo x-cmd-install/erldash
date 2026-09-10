@@ -1,0 +1,12 @@
+- repo: freebsd
+  srcname: sysutils/erldash
+  binname: erldash
+  visiblename: sysutils/erldash
+  version: 0.4.0
+  origversion: 0.4.0_5
+  status: unique
+  summary: Terminal-based Erlang / BEAM dashboard
+  maintainers:
+    - dch@freebsd.org
+  categories:
+    - sysutils
