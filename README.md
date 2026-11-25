@@ -45,12 +45,12 @@ Total: **1,971** lines of code across **9** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-28 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-29 | 1 | 3 | 0 | 1 | 0 | 28 |
-| last720d | 2024-12-04 | 1 | 3 | 0 | 1 | 0 | 31 |
+| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-29 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-30 | 1 | 3 | 0 | 1 | 0 | 28 |
+| last720d | 2024-12-05 | 1 | 3 | 0 | 1 | 0 | 31 |
 
 ## Release assets
 
@@ -59,10 +59,6 @@ Total: **1,971** lines of code across **9** files in the top 5 languages.
 | [erldash-0.4.0.aarch64-apple-darwin](https://github.com/sile/erldash/releases/download/v0.4.0/erldash-0.4.0.aarch64-apple-darwin) | 2.3 MiB | `native/darwin/arm64` |
 | [erldash-0.4.0.x86_64-apple-darwin](https://github.com/sile/erldash/releases/download/v0.4.0/erldash-0.4.0.x86_64-apple-darwin) | 2.4 MiB | `native/darwin/x64` |
 | [erldash-0.4.0.x86_64-unknown-linux-musl](https://github.com/sile/erldash/releases/download/v0.4.0/erldash-0.4.0.x86_64-unknown-linux-musl) | 2.7 MiB | `native/linux/x64/musl` |
-
-## Distribution status
-
-Reported by **2** distros on [repology.org](https://repology.org/project/erldash). **2** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
 
 ## Improve this data
 
@@ -73,4 +69,4 @@ Install metadata for erldash lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:33:34Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:23:45Z._
